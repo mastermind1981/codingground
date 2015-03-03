@@ -1,0 +1,7 @@
+name: sample_pubspec
+description: A sample application
+dependencies:
+  http: any
+  http_parser: any
+  http_utils: any
+  xmlstream: any
