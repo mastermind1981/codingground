@@ -1,0 +1,7 @@
+name: event_stream
+version: 0.3.2
+author: Eric J. Smith <eric@codesmithtools.com>
+description: Makes it easier to expose custom events using the Stream API.
+homepage: https://github.com/ejsmith/event_stream
+dependencies:
+  unittest: any
